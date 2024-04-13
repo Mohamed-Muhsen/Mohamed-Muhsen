@@ -4,10 +4,9 @@
 <h3 align="center">
   Welcome to Mohamed Mohsen's profile!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com? font=Fira+Code&weight=500&size=22&pause=1000&color=F70000&background=FFFFFF00&random=false&width=435&lines=Always+learning+new+things;Full-Stack+web+developer" alt="Typing SVG" /></a>
 </h3>
 
-
+<a align="center" href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com? font=Fira+Code&weight=500&size=22&pause=1000&color=F70000&background=FFFFFF00&random=false&width=435&lines=Always+learning+new+things;Full-Stack+web+developer" alt="Typing SVG" /></a>
 
 👋 Hi there!
 
