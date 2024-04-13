@@ -10,11 +10,11 @@
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Front-end%20web%20developer;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22"></a>
 </p> 
-
+- 👋 Hi there!
 - 🏢 I'm a Software Engineer
 - 👨‍💻 As a CS student, I'm constantly learning and exploring new technologies to improve my skills.
-- 💬 Ask me about my experience with JavaScript, React.JS or anything related to Front-end web development.
-
+- 💬 I'm a FullStack developer specializing in crafting modern web applications. My expertise spans both front-end and back-end using technologies like React.js, Angular.js, Laravel, .Net, 
+     and Node.js. Let me help you in developing your applications the best way possible!"
 
 ### Connect with Me :
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
