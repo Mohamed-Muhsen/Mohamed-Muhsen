@@ -1,5 +1,5 @@
 
-<img width="250" align="right" src="https://c.tenor.com/_DOBjnGspYAAAAAM/code-coding.gif">
+<img width="250" align="right" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWdjZWRtNDM2MmNtZjg1dmo3Y2w0bGU4eGVsNjY3OHAzZWtvbjg3eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/HscDLzkO8EOTmgkhQP/giphy.gif">
 
 <h3 align="center">
   Welcome to Mohamed Mohsen's profile!
