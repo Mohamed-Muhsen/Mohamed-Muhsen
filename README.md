@@ -11,17 +11,19 @@
  </a>
 </p>
 
+---
+
 👋 Hi there!
 
-- 🏢 I'm a Front-End Developer  
-- 👨‍💻 Specializing in **Angular**, **TypeScript**, performance & scalable UI architecture  
-- 🚀 I build dashboards, booking systems, analytics views & production-ready front-end systems  
+- 🏢 I'm a **Front-End Developer**
+- 👨‍💻 Specializing in **Angular**, TypeScript, and scalable front-end architecture  
+- 🚀 I build dashboards, booking systems, analytics components, API integrations & production-ready front-end apps  
 
 ---
 
-## 🛠️ **Tech Stack (Dark Edition)**
+# 🛠️ Tech Stack (Dark, Modern & Updated)
 
-### 🎨 Front-End Core
+## 🎨 Front-End Core
 ![HTML5](https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=E44D27)
 ![CSS3](https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=1572B6)
 ![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
@@ -29,7 +31,7 @@
 
 ---
 
-### 🚀 Frameworks & Libraries
+## 🚀 Frameworks & Libraries
 ![Angular](https://img.shields.io/badge/Angular-000000?style=for-the-badge&logo=angular&logoColor=DD0031)
 ![RxJS](https://img.shields.io/badge/RxJS-000000?style=for-the-badge&logo=reactivex&logoColor=B7178C)
 ![NgRx](https://img.shields.io/badge/NgRx-000000?style=for-the-badge&logo=ngrx&logoColor=AA2AE8)
@@ -39,7 +41,7 @@
 
 ---
 
-### 🧰 Tools & Platforms
+## 🧰 Tools & Platforms
 ![Git](https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=F05032)
 ![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=FFFFFF)
 ![Firebase](https://img.shields.io/badge/Firebase-000000?style=for-the-badge&logo=firebase&logoColor=FFCA28)
@@ -52,14 +54,14 @@
 
 ---
 
-### 📊 Project Management
+## 📊 Project Management
 ![Jira](https://img.shields.io/badge/Jira-000000?style=for-the-badge&logo=jira&logoColor=0052CC)
 ![ClickUp](https://img.shields.io/badge/ClickUp-000000?style=for-the-badge&logo=clickup&logoColor=7B68EE)
 ![Clockify](https://img.shields.io/badge/Clockify-000000?style=for-the-badge&logo=clockify&logoColor=03A9F4)
 
 ---
 
-### 🎯 Other Skills
+## 🎯 Other Skills
 ![Responsive](https://img.shields.io/badge/Responsive_Design-000000?style=for-the-badge&logo=css3&logoColor=1572B6)
 ![SEO](https://img.shields.io/badge/SEO-000000?style=for-the-badge&logo=google&logoColor=34A853)
 ![Performance](https://img.shields.io/badge/Performance_Optimization-000000?style=for-the-badge&logo=googlechrome&logoColor=FF6F00)
@@ -69,8 +71,45 @@
 
 ---
 
+# ⭐ Featured Projects
+
+<table>
+  <tr>
+    <td width="50%">
+      <h3 align="center">MoreTckts Travel Platform</h3>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
+        <img src="https://img.shields.io/badge/REST_API-02569B?style=for-the-badge&logo=postman&logoColor=white" />
+      </p>
+      <p>Large-scale travel booking system with flights, hotels, cars & packages, featuring optimized state management and real-time APIs.</p>
+      <p align="center">
+        <a href="#" target="_blank">
+          <img src="https://img.shields.io/badge/Preview-000000?style=for-the-badge&logo=googlechrome&logoColor=white">
+        </a>
+      </p>
+    </td>
+
+    <td width="50%">
+      <h3 align="center">Sahla Hospital Platform</h3>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
+        <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
+      </p>
+      <p>A complete hospital management system with booking, lab results, IoT integration, dashboards, and admin panel—live in production.</p>
+      <p align="center">
+        <a href="#" target="_blank">
+          <img src="https://img.shields.io/badge/Live_Demo-000000?style=for-the-badge&logo=googlechrome&logoColor=white">
+        </a>
+      </p>
+    </td>
+  </tr>
+</table>
+
+---
+
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Mohamed-Muhsen&show_icons=true&locale=en&layout=compact&theme=radical" />
 <br>
+
 <a href="https://komarev.com/ghpvc/?username=Mohamed-Muhsen&style=for-the-badge">
     <img src="https://komarev.com/ghpvc/?username=Mohamed-Muhsen&style=for-the-badge">
 </a>
