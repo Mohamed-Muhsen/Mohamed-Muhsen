@@ -1,3 +1,4 @@
+
 <img width="250" align="right" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWdjZWRtNDM2MmNtZjg1dmo3Y2w0bGU4eGVsNjY3OHAzZWtvbjg3eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/HscDLzkO8EOTmgkhQP/giphy.gif">
 
 <h3 align="center">
@@ -6,21 +7,22 @@
 </h3>
 
 <p align="center">
- <a href="https://git.io/typing-svg">
- <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=F70000&background=FFFFFF00&random=false&width=435&lines=Always+learning+new+things;Front-End+Web+Developer" />
- </a>
+ <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=F70000&background=FFFFFF00&random=false&width=435&lines=Always+learning+new+things;Full-Stack+web+developer" alt="Typing SVG" /></a>
 </p>
 
 👋 Hi there!
 
-- 🏢 I'm a Front-End Developer  
-- 👨‍💻 Passionate about building performant and scalable web apps using **Angular** and modern JavaScript  
+- 🏢 I'm a Front-End Developer
+   
+- 👨‍💻 Passionate about building performant and scalable web apps using **Angular** and modern JavaScript
+  
 - 🚀 I love creating clean UI/UX, dashboards, API integrations, and production-ready front-end systems  
 
 ### Connect with Me :
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamed-mohsen-629137286/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mohamedmuhsen2002@gmail.com)
-[![Whatsapp](https://img.shields.io/badge/-Whatsapp-075e54?style=for-the-badge&logo=Whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=01000371053)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
+)](https://www.linkedin.com/in/mohamed-mohsen-629137286/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:AmrSaaayed74@gmail.com)](mailto:202102295@pua.edu.eg)
+[![Whatsapp](https://img.shields.io/badge/-Whatsapp-075e54?style=for-the-badge&logo=Whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=01553554204)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100050420202865/)
 
 ---
@@ -58,9 +60,11 @@
 
 ---
 
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Mohamed-Muhsen&show_icons=true&locale=en&layout=compact&theme=radical" />
-<br>
 
+
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Mohamed-Muhsen&show_icons=true&locale=en&layout=compact&theme=radical" alt="most used languages" />
+<br>
 <a href="https://komarev.com/ghpvc/?username=Mohamed-Muhsen&style=for-the-badge">
     <img src="https://komarev.com/ghpvc/?username=Mohamed-Muhsen&style=for-the-badge">
 </a> 
+
