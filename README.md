@@ -12,12 +12,11 @@
 
 👋 Hi there!
 
-- 🏢 I'm a Software Engineer
+- 🏢 I'm a Front-End Developer
+   
+- 👨‍💻 Passionate about building performant and scalable web apps using **Angular** and modern JavaScript
   
-- 👨‍💻 As a CS student, I'm constantly learning and exploring new technologies to improve my skills.
-  
-- 💬 I'm a FullStack developer specializing in crafting modern web applications. My expertise spans both front-end and back-end using technologies like React.js, Angular.js, Laravel, .Net, 
-     and Node.js. Let me help you in developing your applications the best way possible!"
+- 🚀 I love creating clean UI/UX, dashboards, API integrations, and production-ready front-end systems  
 
 ### Connect with Me :
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
@@ -26,26 +25,56 @@
 [![Whatsapp](https://img.shields.io/badge/-Whatsapp-075e54?style=for-the-badge&logo=Whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=01553554204)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100050420202865/)
 
-### 🛠 &nbsp;Tech Stack
-![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
-![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3)
-![tailwind](https://img.shields.io/badge/-tailwindcss-15b4c1?style=flat-square&logo=tailwindcss&logoColor=ffffff)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=Bootstrap)
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-![React.js](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)
-![Sass](https://img.shields.io/badge/-Sass-%23CC6699?style=flat-square&logo=sass&logoColor=ffffff)
-![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
-![VS Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=ffffff)
-![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat&logo=angular)
-![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=flat&logo=laravel)
-![.NET](https://img.shields.io/badge/-.NET-512BD4?style=flat&logo=.net)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js)
-![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
-![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat&logo=arduino)
+---
+
+### 🛠️ Tech Stack (Real, Modern & Updated)
 
 
+## 🎨 Front-End Core
+![HTML5](https://img.shields.io/badge/HTML5-E44D27?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+
+
+
+## 🚀 Frameworks & Libraries
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![RxJS](https://img.shields.io/badge/RxJS-B7178C?style=for-the-badge&logo=reactivex&logoColor=white)
+![NgRx](https://img.shields.io/badge/NgRx-AA2AE8?style=for-the-badge&logo=ngrx&logoColor=white)
+![SCSS](https://img.shields.io/badge/SCSS-CC6699?style=for-the-badge&logo=sass&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Chart.js](https://img.shields.io/badge/Chart.js-FF6384?style=for-the-badge&logo=chartdotjs&logoColor=white)
+
+
+
+## 🧰 Tools & Platforms
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Postman](https://img.shields.io/badge/Postman-F76935?style=for-the-badge&logo=postman&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
+![Google DevTools](https://img.shields.io/badge/Chrome%20DevTools-FABB05?style=for-the-badge&logo=googlechrome&logoColor=black)
+![Lighthouse](https://img.shields.io/badge/Lighthouse-4285F4?style=for-the-badge&logo=lighthouse&logoColor=white)
+
+
+## 📊 Project Management & Workflow
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+![ClickUp](https://img.shields.io/badge/ClickUp-7B68EE?style=for-the-badge&logo=clickup&logoColor=white)
+![Clockify](https://img.shields.io/badge/Clockify-03A9F4?style=for-the-badge&logo=clockify&logoColor=white)
+![Agile](https://img.shields.io/badge/Agile%20%2F%20Scrum-2496ED?style=for-the-badge&logo=scrumalliance&logoColor=white)
+
+
+## 🎯 Other Skills
+![Responsive Design](https://img.shields.io/badge/Responsive_Design-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![SEO](https://img.shields.io/badge/SEO-34A853?style=for-the-badge&logo=google&logoColor=white)
+![Performance Optimization](https://img.shields.io/badge/Performance_Optimization-FF6F00?style=for-the-badge&logo=googlechrome&logoColor=white)
+![REST APIs](https://img.shields.io/badge/REST_APIs-02569B?style=for-the-badge&logo=postman&logoColor=white)
+![IoT Integration](https://img.shields.io/badge/IoT_Integration-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+---
 
 
 
@@ -54,4 +83,4 @@
 <a href="https://komarev.com/ghpvc/?username=Mohamed-Muhsen&style=for-the-badge">
     <img src="https://komarev.com/ghpvc/?username=Mohamed-Muhsen&style=for-the-badge">
 </a> 
-
+ 
